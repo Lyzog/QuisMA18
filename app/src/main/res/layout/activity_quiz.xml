@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="lyzog.gaming.quiz.QuizActivity"
+    tools:context=".QuizActivity"
     android:background="#264">
 
     <Button
@@ -22,7 +22,7 @@
         android:layout_marginEnd="100dp"
         android:layout_marginRight="100dp"
         android:layout_marginBottom="15dp"
-        android:text="Button1"
+        android:text="Answer1"
         tools:layout_editor_absoluteX="165dp"
         tools:layout_editor_absoluteY="580dp" />
 
@@ -41,7 +41,7 @@
         android:layout_marginEnd="100dp"
         android:layout_marginRight="100dp"
         android:layout_marginBottom="15dp"
-        android:text="Button2"
+        android:text="Answer2"
         tools:layout_editor_absoluteX="165dp"
         tools:layout_editor_absoluteY="580dp" />
 
@@ -60,7 +60,7 @@
         android:layout_marginEnd="100dp"
         android:layout_marginRight="100dp"
         android:layout_marginBottom="70dp"
-        android:text="Button3"
+        android:text="Answer3"
         tools:layout_editor_absoluteX="165dp"
         tools:layout_editor_absoluteY="580dp" />
 

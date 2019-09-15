@@ -2,4 +2,6 @@
     <string name="app_name">quis</string>
     <string name="Start">Start</string>
     <string name="Quis_time">Quis time</string>
+    <string name="start">Start</string>
+    <string name="quiztime">QuizTime</string>
 </resources>

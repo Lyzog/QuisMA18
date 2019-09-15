@@ -1,4 +1,4 @@
-package lyzog.gaming.quiz;
+package lyzog.gaming.quis;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,8 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
-import lyzog.gaming.quis.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -18,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        button = findViewById(R.id.Start);
+        button = findViewById(R.id.Button);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
